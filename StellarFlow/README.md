@@ -4,6 +4,8 @@ A real-time n-body gravitational simulator for iPad and iPhone, built entirely i
 
 Pick a preset, watch the orbits form, drag the camera, change masses on the fly, and toggle visualization overlays for velocity vectors, the gravitational vector field, the system's center of mass, and more.
 
+<img width="2360" height="1640" alt="StellarFlow Screnshot 1" src="https://github.com/user-attachments/assets/b9a91931-8f32-4aa8-bb0c-400f702a3a59" />
+
 ## Features
 
 - **Seven built-in presets**: Sun + planet, sun + planet + comet, Trojan asteroids at the Sun-Jupiter L4/L5 Lagrange points, a scaled solar system, elliptical orbits, a binary star with circumbinary planet, and a four-body rotating square
